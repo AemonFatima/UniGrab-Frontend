@@ -31,7 +31,7 @@ University
 Admin.
 
 *Student Login
-If the user is a Student: the application asks for login credentials (//Enter credentials Rayan/Faraz) and after entering the valid credentials the application takes the user to the 
+If the user is a Student: the application asks for login credentials  and after entering the valid credentials the application takes the user to the 
 HomePage.
 
 Now the HomePage displays a search bar for searching universities and four option buttons to the user:
@@ -53,7 +53,7 @@ There is a Profile button in a bar at the bottom of the homepage where users can
 There is a Back to Login Screen button at the end when the user wishes to exit the application.
 
 *University Login
-When the user logs in as University, the application asks for login credentials (//Enter credentials Rayan/Faraz) and after entering the valid credentials the application takes the user to the HomePage.
+When the user logs in as University, the application asks for login credentials and after entering the valid credentials the application takes the user to the HomePage.
 The HomePage and displays option buttons of:
 
 Manage University
@@ -75,14 +75,11 @@ the user to the HomePage.
 
 The HomePage displays option buttons of:
 
-Get Feedback
-(//Add function Faraz)
-
 If the admin clicks Get Feedback then he is able to get feedback from the users of the application.
 
 *Student SignUp
 When the student signs up it needs to enter his Personal Details and Educational Background whether he/she is an undergrad or a grad student, in the application.
-( UserName = faraz/ Password = faraz123)
+( UserName = aemon/ Password = aemon123)
 
 *University SignUp
 When the university signs up it needs to enter their university information. The management of departments, faculty etc will be added or edited in ‘manage university’ after signing up.
